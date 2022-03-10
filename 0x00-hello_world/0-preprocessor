@@ -1,1 +1,2 @@
-export CFILE=0-main.c ; ./0-preprocessor where main.c contains a main function printing a string on the standard output.
+#!/bin/bash
+gcc -E $CFILE -o c
