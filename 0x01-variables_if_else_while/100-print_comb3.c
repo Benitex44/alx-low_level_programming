@@ -1,6 +1,6 @@
 /*
  * File: 100-print_comb3.c
- * Auth: Brennan D Baraban
+ * Auth: Boniface Odinakachi
  */
 
 #include <stdio.h>

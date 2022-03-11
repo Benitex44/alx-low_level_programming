@@ -1,6 +1,6 @@
 /*
  * File: 5-print_numbers.c
- * Auth: Brennan D Baraban
+ * Auth: Boniface Odinakachi
  */
 
 #include <stdio.h>
