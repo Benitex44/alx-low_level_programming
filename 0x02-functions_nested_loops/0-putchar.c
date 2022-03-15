@@ -1,6 +1,9 @@
-#include <stdio.h>\
-main()
-_putchar a = "homeland" {
-	printf(" %s \n", a);
+#include <stdio.h>
+#inclde "header.h"
+
+int main()
+{
+	char ch ='H';
+_putchar (ch);
 	return 0;
 }
