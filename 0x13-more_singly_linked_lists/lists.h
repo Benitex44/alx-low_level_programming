@@ -1,5 +1,5 @@
-#ifndef MAIN
-#define MAIN
+#ifndef LISTS
+#define LISTS
 /**
  * struct listint_s - singly linked list
  * @n: integer
